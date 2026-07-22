@@ -1,0 +1,6 @@
+{
+  "name": "Task & Habit Tracker",
+  "description": "Comprehensive task, habit, and productivity tracking app with Jetpack Compose, Room local storage, interactive statistics, and modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
